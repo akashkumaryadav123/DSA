@@ -1,4 +1,5 @@
 nums = [1,2,5,9]
+import math
 threshold = 6
 def samllestDivisor(nums,thershold):
     def check(nums,divisor,threshold):
